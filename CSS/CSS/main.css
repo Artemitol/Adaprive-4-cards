@@ -1,0 +1,15 @@
+body {
+  background-color: hsl(0, 0%, 98%);
+}
+
+.content {
+  margin-top: 15%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.block {
+  box-shadow: 2px 5px 20px hsl(229, 10%, 79%);
+}/*# sourceMappingURL=main.css.map */
